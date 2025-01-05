@@ -1,5 +1,7 @@
 ![Screenshot of the application](./screenshot.jpg)
 
+# BUMP
+
 # Unified Auctions UI
 
 The tool to enable easy and straightforward participation in [MakerDAO](https://makerdao.com/) liquidations for users both completely unfamiliar with Maker protocol but also experts. The repository contains both the `frontend`-only application to fetch and manually interact with the maker auctions, as well as the `bot` – the "keeper" application to configure and run with your own settings to automatically particiate in specified auctions.
